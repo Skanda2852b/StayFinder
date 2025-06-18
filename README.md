@@ -111,3 +111,11 @@ stayfinder/
 3. Commit your changes
 4. Push to the branch
 5. Create a new Pull Request 
+
+![Screenshot 2025-06-18 234901](https://github.com/user-attachments/assets/f00d6100-8536-440f-b2d6-3f57f9c9d46c)
+![Screenshot 2025-06-18 234753](https://github.com/user-attachments/assets/4070aaea-5e88-4a65-bf92-658318e436aa)
+![Screenshot 2025-06-18 234839](https://github.com/user-attachments/assets/0fe8548a-e24b-464d-a958-3e2e50635c41)
+![Screenshot 2025-06-18 234807](https://github.com/user-attachments/assets/846d3cd4-2e17-47a9-a974-f39d30731d90)
+
+
+
