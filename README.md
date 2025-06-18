@@ -17,8 +17,6 @@ StayFinder is a full-stack web application similar to Airbnb, built using the ME
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: JWT (JSON Web Tokens)
-- **Image Storage**: Cloudinary
-- **Maps**: Mapbox
 
 ## Prerequisites
 
@@ -45,10 +43,7 @@ StayFinder is a full-stack web application similar to Airbnb, built using the ME
    PORT=5000
    MONGODB_URI=your_mongodb_uri
    JWT_SECRET=your_jwt_secret
-   CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
-   CLOUDINARY_API_KEY=your_cloudinary_api_key
-   CLOUDINARY_API_SECRET=your_cloudinary_api_secret
-   MAPBOX_ACCESS_TOKEN=your_mapbox_token
+   
    ```
 
 4. Start the development servers:
@@ -59,7 +54,7 @@ StayFinder is a full-stack web application similar to Airbnb, built using the ME
 
    # Start frontend server
    cd ../frontend
-   npm start
+   npm run dev
    ```
 
 5. Open http://localhost:3000 in your browser
